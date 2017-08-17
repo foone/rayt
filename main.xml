@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes" ?>
+<RaytWorld>
+	<LineSegment>
+		<Point x="-40.00" y="-10.00" />
+		<Point x="-120.00" y="-10.00" />
+		<Color r="255" g="255" b="255" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="40.00" y="-10.00" />
+		<Point x="120.00" y="-10.00" />
+		<Color r="255" g="255" b="255" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="120.00" y="-10.00" />
+		<Point x="120.00" y="120.00" />
+		<Color r="255" g="255" b="255" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="-120.00" y="-10.00" />
+		<Point x="-120.00" y="120.00" />
+		<Color r="255" g="255" b="255" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="120.00" y="120.00" />
+		<Point x="-120.00" y="120.00" />
+		<Color r="255" g="255" b="255" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="-40.00" y="-10.00" />
+		<Point x="20.00" y="-10.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="-40.00" y="-10.00" />
+		<Point x="-40.00" y="-90.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="40.00" y="-10.00" />
+		<Point x="40.00" y="-70.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="40.00" y="-90.00" />
+		<Point x="-40.00" y="-90.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="40.00" y="-70.00" />
+		<Point x="20.00" y="-70.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="40.00" y="-30.00" />
+		<Point x="20.00" y="-30.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="-20.00" y="-30.00" />
+		<Point x="0.00" y="-30.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="-20.00" y="-30.00" />
+		<Point x="-20.00" y="-70.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="0.00" y="-70.00" />
+		<Point x="-20.00" y="-70.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="0.00" y="-70.00" />
+		<Point x="0.00" y="-50.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="20.00" y="-50.00" />
+		<Point x="0.00" y="-50.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+	<LineSegment>
+		<Point x="20.00" y="-50.00" />
+		<Point x="20.00" y="-30.00" />
+		<Color r="47" g="177" b="140" />
+	</LineSegment>
+</RaytWorld>
